@@ -1,0 +1,4 @@
+requests
+termcolor
+urllib3
+beautifulsoup4
